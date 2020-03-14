@@ -1,0 +1,9 @@
+{
+  "name": "test-cpp-module",
+  "version": "0.1.0",
+  "private": true,
+  "gypfile": true,
+  "dependencies": {
+    "node-addon-api": "^2.0.0"
+  }
+}
